@@ -1,0 +1,41 @@
+<svg width="1200" height="570" viewBox="0 0 1200 570" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09151A"/><stop offset="1" stop-color="#0E1211"/></linearGradient><linearGradient id="c" x1="0" x2="1"><stop stop-color="#42E9E0"/><stop offset="1" stop-color="#00A2C0"/></linearGradient><linearGradient id="g" x1="0" x2="1"><stop stop-color="#FFE29A"/><stop offset="1" stop-color="#9C7428"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="568" rx="22" fill="#070D11" stroke="#233B43"/>
+<text x="34" y="40" fill="#42E9E0" font-family="monospace" font-size="11" letter-spacing="3">FEATURED PROJECTS // REAL REPOSITORIES</text>
+
+<g>
+<rect x="32" y="70" width="548" height="220" rx="18" fill="url(#p)" stroke="#1D6872"/>
+<text x="58" y="103" fill="#42E9E0" font-family="monospace" font-size="10" letter-spacing="2">BIOINFORMATICS</text>
+<text x="58" y="145" fill="#F4F8F9" font-family="Arial" font-weight="800" font-size="30">GenoSearch</text>
+<text x="58" y="175" fill="#AABCC1" font-family="Arial" font-size="13">Genomic sequence search and DNA pattern matching</text><text x="58" y="196" fill="#AABCC1" font-family="Arial" font-size="13">using purpose-built indexing and algorithms.</text>
+<text x="58" y="236" fill="#5F777E" font-family="monospace" font-size="10">PYTHON · FASTAPI · NEXT.JS · POSTGRESQL</text>
+<path d="M454 103C415 130 485 145 446 172C412 197 478 215 446 268" stroke="url(#c)" stroke-width="3"/><path d="M510 103C549 130 479 145 518 172C552 197 486 215 518 268" stroke="url(#g)" stroke-width="2.5"/>
+</g>
+
+<g>
+<rect x="620" y="70" width="548" height="220" rx="18" fill="url(#p)" stroke="#29483F"/>
+<text x="646" y="103" fill="#5CFFB0" font-family="monospace" font-size="10" letter-spacing="2">SYSTEMS · C++</text>
+<text x="646" y="145" fill="#F4F8F9" font-family="Arial" font-weight="800" font-size="30">hydro-smart</text>
+<text x="646" y="175" fill="#AABCC1" font-family="Arial" font-size="13">Modular C++ application for smart-grid modeling,</text><text x="646" y="196" fill="#AABCC1" font-family="Arial" font-size="13">templates and resource-management experiments.</text>
+<text x="646" y="236" fill="#5F777E" font-family="monospace" font-size="10">C++ · OOP · TEMPLATES · FILE HANDLING</text>
+<circle cx="1050" cy="176" r="50" stroke="#5CFFB0" stroke-opacity=".18"/><circle cx="1050" cy="176" r="31" stroke="#42E9E0" stroke-opacity=".45"/><circle cx="1050" cy="176" r="7" fill="#5CFFB0"/>
+</g>
+
+<g>
+<rect x="32" y="320" width="548" height="220" rx="18" fill="url(#p)" stroke="#29483F"/>
+<text x="58" y="353" fill="#5CFFB0" font-family="monospace" font-size="10" letter-spacing="2">DIGITAL HARDWARE</text>
+<text x="58" y="395" fill="#F4F8F9" font-family="Arial" font-weight="800" font-size="28">hardware-number-guesser</text>
+<text x="58" y="425" fill="#AABCC1" font-family="Arial" font-size="13">Verilog-based digital system built around sequential</text><text x="58" y="446" fill="#AABCC1" font-family="Arial" font-size="13">logic and finite-state-machine design.</text>
+<text x="58" y="486" fill="#5F777E" font-family="monospace" font-size="10">VERILOG · FSM · FPGA</text>
+<g stroke="#5CFFB0" stroke-opacity=".45"><path d="M445 365H535"/><path d="M445 389H560"/><path d="M445 413H515"/><path d="M445 437H545"/></g>
+</g>
+
+<g>
+<rect x="620" y="320" width="548" height="220" rx="18" fill="url(#p)" stroke="#1D6872"/>
+<text x="646" y="353" fill="#42E9E0" font-family="monospace" font-size="10" letter-spacing="2">ALGORITHMS · C++</text>
+<text x="646" y="395" fill="#F4F8F9" font-family="Arial" font-weight="800" font-size="30">stl-problems</text>
+<text x="646" y="425" fill="#AABCC1" font-family="Arial" font-size="13">A curated collection focused on STL, data structures</text><text x="646" y="446" fill="#AABCC1" font-family="Arial" font-size="13">and practical algorithmic problem solving.</text>
+<text x="646" y="486" fill="#5F777E" font-family="monospace" font-size="10">C++ · DSA · STL</text>
+<path d="M1030 365L1080 395L1030 425L980 395Z" stroke="#42E9E0" stroke-opacity=".5"/><circle cx="1030" cy="395" r="7" fill="#42E9E0"/>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="1198" height="308" rx="22" fill="#070D11" stroke="#233B43"/>
+<text x="34" y="39" fill="#42E9E0" font-family="monospace" font-size="11" letter-spacing="3">TECHNOLOGY MATRIX</text>
+<g font-family="monospace">
+<line x1="300" y1="70" x2="300" y2="272" stroke="#203238"/><line x1="600" y1="70" x2="600" y2="272" stroke="#203238"/><line x1="900" y1="70" x2="900" y2="272" stroke="#203238"/>
+<text x="38" y="76" fill="#42E9E0" font-size="10" letter-spacing="2">LANGUAGES</text>
+<text x="38" y="110" fill="#DDE7E9" font-size="13">C++</text><text x="38" y="141" fill="#DDE7E9" font-size="13">Python</text><text x="38" y="172" fill="#DDE7E9" font-size="13">TypeScript</text><text x="38" y="203" fill="#DDE7E9" font-size="13">Verilog</text>
+
+<text x="334" y="76" fill="#42E9E0" font-size="10" letter-spacing="2">WEB / AI</text>
+<text x="334" y="110" fill="#DDE7E9" font-size="13">Next.js</text><text x="334" y="141" fill="#DDE7E9" font-size="13">FastAPI</text><text x="334" y="172" fill="#DDE7E9" font-size="13">Tailwind CSS</text><text x="334" y="203" fill="#DDE7E9" font-size="13">Framer Motion</text><text x="334" y="234" fill="#DDE7E9" font-size="13">GSAP</text>
+
+<text x="634" y="76" fill="#5CFFB0" font-size="10" letter-spacing="2">SYSTEMS / HARDWARE</text>
+<text x="634" y="110" fill="#DDE7E9" font-size="13">Digital Logic</text><text x="634" y="141" fill="#DDE7E9" font-size="13">FPGA</text><text x="634" y="172" fill="#DDE7E9" font-size="13">FSM Design</text><text x="634" y="203" fill="#DDE7E9" font-size="13">Logisim Evolution</text>
+
+<text x="934" y="76" fill="#F3D68B" font-size="10" letter-spacing="2">DATA / TOOLING</text>
+<text x="934" y="110" fill="#DDE7E9" font-size="13">PostgreSQL</text><text x="934" y="141" fill="#DDE7E9" font-size="13">SQLite</text><text x="934" y="172" fill="#DDE7E9" font-size="13">Git · GitHub</text><text x="934" y="203" fill="#DDE7E9" font-size="13">Docker</text><text x="934" y="234" fill="#DDE7E9" font-size="13">Poetry</text>
+</g>
+<path d="M34 274H1166" stroke="#203238"/>
+<text x="34" y="293" fill="#5E737B" font-family="monospace" font-size="9">Only technologies represented in my public/in-progress work are shown.</text>
+</svg>
