@@ -1,78 +1,153 @@
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="Md. Shamiul Basher Siam — Developer Identity"/>
+# MD. Shamiul Basher Siam
+
+### Computer Science Engineer | C/C++ Developer | DSA & Systems Architect
+
+Building high-performance systems, emergency response simulators, and modern web applications.  
+Specializing in algorithms, systems design, and FPGA development.
+
+[![GitHub followers](https://img.shields.io/github/followers/Shamiul-Bashar?label=Follow&style=social)](https://github.com/Shamiul-Bashar)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shamiul-Bashar&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Shamiul-Bashar)
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/Shamiul-Bashar"><img src="https://img.shields.io/badge/GITHUB-SHAMIUL--BASHAR-071014?style=for-the-badge&logo=github&logoColor=5AF4EA&labelColor=071014" /></a>
-  <a href="https://x.com/SIAM_BASHAR"><img src="https://img.shields.io/badge/X-SIAM__BASHAR-071014?style=for-the-badge&logo=x&logoColor=F4F7F8&labelColor=071014" /></a>
-  <a href="https://www.linkedin.com/in/ShamiulBasher/"><img src="https://img.shields.io/badge/LINKEDIN-SHAMIULBASHER-071014?style=for-the-badge&logo=linkedin&logoColor=5CFFB0&labelColor=071014" /></a>
-  <a href="https://www.facebook.com/share/1VfwfReLdL/"><img src="https://img.shields.io/badge/FACEBOOK-PROFILE-071014?style=for-the-badge&logo=facebook&logoColor=42E9E0&labelColor=071014" /></a>
-</p>
+---
 
-<img src="./divider.svg" width="100%" alt=""/>
+## 🎯 About Me
 
-## `01` — ABOUT
+Computer Science & Engineering student at **Khulna University of Engineering & Technology (KUET)** with a deep focus on systems programming, algorithmic problem-solving, and practical hardware-software integration.
 
-I build at the intersection of **software, AI-oriented systems, algorithms, and digital hardware**.  
-My work ranges from modular C++ applications and data structures to **FPGA / Verilog systems** and bioinformatics tooling.
+I design and implement:
+- **High-performance algorithms** and data structure-based systems
+- **Emergency routing & resource allocation simulators** using advanced DSA
+- **FPGA/Verilog projects** exploring digital logic and hardware design
+- **Modern interactive web applications** with React, Next.js, and TypeScript
 
-<img src="./activity.svg" width="100%" alt="Developer profile readout"/>
+I believe in turning complex computational problems into practical, visual systems that solve real-world challenges.
 
-## `02` — TECHNOLOGY MATRIX
+---
 
-<img src="./stack.svg" width="100%" alt="Technology matrix"/>
+## 🚀 Currently
 
-<img src="./divider.svg" width="100%" alt=""/>
+**🔭 Working On**  
+[CrisisMesh 2.0](https://github.com/Shamiul-Bashar/CrisisMesh-2.0-Dynamic-Emergency-Decision-Routing-Resource-Allocation-Simulator) — Dynamic emergency decision-making, routing, and resource-allocation simulator powered by advanced graph algorithms and DSA
 
-## `03` — SELECTED WORK
+**🌱 Learning**  
+Advanced Graph Algorithms · Assembly Language · Computer Architecture · Verilog & FPGA Design · System Design Patterns
 
-<img src="./projects.svg" width="100%" alt="Featured projects"/>
+**🤝 Open to Collaborating On**  
+DSA-based systems projects, algorithm optimization, and emergency response simulation tools
 
-<p align="center">
-  <sub>Selected from my public repositories · explore the full archive on <a href="https://github.com/Shamiul-Bashar?tab=repositories">GitHub</a></sub>
-</p>
+**💬 Ask Me About**  
+C/C++ · Data Structures & Algorithms · Graph Algorithms · OOP · Digital Logic · Verilog & FPGA · Competitive Programming
 
-## `04` — ENGINEERING INTERESTS
+---
 
-<p align="center">
+## 💻 Tech Stack
 
-`DATA STRUCTURES`　 `ALGORITHMS`　 `AI SYSTEMS`　 `DIGITAL LOGIC`　 `FPGA`　 `BIOINFORMATICS`　 `SYSTEM DESIGN`
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-</p>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<img src="./divider.svg" width="100%" alt=""/>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## `05` — GITHUB READOUT
+### Systems & Hardware
+![Verilog](https://img.shields.io/badge/Verilog-DC382D?style=for-the-badge&logo=verilog&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shamiul-Bashar&show_icons=true&hide_border=true&bg_color=071014&title_color=42E9E0&icon_color=5CFFB0&text_color=D4E0E4&hide_rank=true&cache_seconds=86400" width="49%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamiul-Bashar&layout=compact&hide_border=true&bg_color=071014&title_color=42E9E0&text_color=D4E0E4&cache_seconds=86400" width="49%" alt="Top languages"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamiul-Bashar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/Shamiul-Bashar)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shamiul-Bashar&layout=compact&theme=dark&hide_border=true)](https://github.com/Shamiul-Bashar)
 
 </div>
 
-## `06` — TROPHIES
+---
+
+## 🔥 Contribution Activity
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shamiul-Bashar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamiul-Bashar&theme=dark&hide_border=true)](https://github.com/Shamiul-Bashar)
+
 </div>
 
-<img src="./divider.svg" width="100%" alt=""/>
+---
 
-## `07` — LET'S CONNECT
+## 🚀 Featured Projects
 
-<img src="./socials.svg" width="100%" alt="Social links"/>
+### [CrisisMesh 2.0 — Dynamic Emergency Decision, Routing & Resource-Allocation Simulator](https://github.com/Shamiul-Bashar/CrisisMesh-2.0-Dynamic-Emergency-Decision-Routing-Resource-Allocation-Simulator)
 
-<p align="center">
-  <a href="https://github.com/Shamiul-Bashar">GitHub</a> ·
-  <a href="https://x.com/SIAM_BASHAR">X</a> ·
-  <a href="https://www.linkedin.com/in/ShamiulBasher/">LinkedIn</a> ·
-  <a href="https://www.facebook.com/share/1VfwfReLdL/">Facebook</a> ·
-  <a href="https://github.com/Shamiul-Bashar/PORTFOLIO">Portfolio Repository</a>
-</p>
+A sophisticated DSA-based emergency response system using advanced graph algorithms for:
+- Real-time emergency routing and decision-making
+- Optimal resource allocation across disaster zones
+- Simulation of dynamic crisis scenarios
 
-<p align="center">
-  <sub>BUILDING IN PUBLIC · SOFTWARE × AI × HARDWARE</sub>
-</p>
+**Tech:** C++ · Graph Algorithms · DSA · Simulation Systems
+
+---
+
+## 🧠 Problem Solving & Algorithms
+
+**Competitive Programming Profiles:**
+- **Codeforces:** [shamiul_bashar](https://codeforces.com/profile/shamiul_bashar)
+- **LeetCode:** [siam_basher](https://www.leetcode.com/siam_basher)
+
+**Focus Areas:**
+- Graph Algorithms & Tree Structures
+- Dynamic Programming
+- Advanced Data Structures
+- Algorithmic Problem Solving
+- System Design Patterns
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shamiul-Bashar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamiul-bashar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shamiul-dev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siambasher@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F1F1F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shamiul_bashar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/siam_basher)
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile. Let's build something amazing together.**
+
+*"The best code is the code that solves real problems elegantly."*
+
+</div>
