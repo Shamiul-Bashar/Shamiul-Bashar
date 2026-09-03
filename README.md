@@ -82,29 +82,19 @@ C/C++ · Data Structures & Algorithms · Graph Algorithms · OOP · Digital Logi
 
 </div>
 
-<br/>
-
-<div align="center">
-
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shamiul-Bashar&theme=dark)](https://github.com/Shamiul-Bashar)
-
-</div>
-
 ---
 
 ## 🔥 Contribution Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shamiul-Bashar&theme=dark&hide_border=true)](https://github.com/Shamiul-Bashar)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shamiul-Bashar&theme=dark)](https://github.com/Shamiul-Bashar)
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shamiul-Bashar&theme=dark-dimmed&hide_border=true&point=36BCF7&line=36BCF7&area=true)](https://github.com/Shamiul-Bashar)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shamiul-Bashar&theme=dark-dimmed&hide_border=true&point=36BCF7&line=36BCF7&area=true&radius=16)](https://github.com/Shamiul-Bashar)
 
 </div>
 
