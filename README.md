@@ -90,20 +90,6 @@ I particularly enjoy projects where algorithms are not just implemented, but bec
 
 </div>
 
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Shamiul-Bashar?tab=repositories">
-<img src="https://img.shields.io/github/followers/Shamiul-Bashar?label=Followers&style=flat-square&logo=github" alt="Followers" />
-</a>
-&nbsp;
-<a href="https://github.com/Shamiul-Bashar?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-24292f?style=flat-square&logo=github" alt="Repositories" />
-</a>
-
-</div>
-
 ---
 
 # 🏆 GitHub Trophies
