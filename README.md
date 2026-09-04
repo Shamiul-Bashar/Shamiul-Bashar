@@ -6,85 +6,76 @@
 
 ### Computer Science & Engineering Student · C/C++ Developer · DSA & Systems Developer
 
-Building algorithm-driven systems, practical software solutions, FPGA projects,  
-and modern interactive web applications.
+**Algorithms • Systems • Digital Hardware • Modern Web**
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Shamiul-Bashar?label=Followers&style=for-the-badge&logo=github)](https://github.com/Shamiul-Bashar)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shamiul-Bashar&label=PROFILE+VIEWS&style=for-the-badge)](https://github.com/Shamiul-Bashar)
+[![GitHub](https://img.shields.io/badge/GitHub-Shamiul--Bashar-181717?style=for-the-badge&logo=github)](https://github.com/Shamiul-Bashar)
+[![Followers](https://img.shields.io/github/followers/Shamiul-Bashar?label=Followers&style=for-the-badge&logo=github)](https://github.com/Shamiul-Bashar)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shamiul-Bashar&label=Profile%20Views&style=for-the-badge)](https://github.com/Shamiul-Bashar)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering student at Khulna University of Engineering & Technology (KUET)** with a strong interest in **C/C++, Data Structures & Algorithms, systems, computer architecture, digital logic, FPGA development, and modern web technologies**.
+I'm a **Computer Science & Engineering student at Khulna University of Engineering & Technology (KUET)** interested in building practical systems from strong fundamentals.
 
-I enjoy turning computational problems into practical systems — from **dynamic emergency-response simulations** and algorithmic solutions to **Verilog/FPGA projects** and interactive web applications.
+My work spans **C/C++, Data Structures & Algorithms, graph-based systems, computer architecture, digital logic, Verilog/FPGA development, and modern web applications**.
 
-### Focus Areas
+I particularly enjoy projects where algorithms are not just implemented, but become the core of a working system.
 
-- 🧠 Data Structures & Algorithms
-- ⚙️ Systems Design & Optimization
-- 🗺️ Graph Algorithms & Shortest Paths
-- 💻 C/C++ & Object-Oriented Programming
-- 🔌 Digital Logic & FPGA Development
-- 🖥️ Computer Architecture
-- 🌐 Modern Web Development
-- 🎮 Simulation & Visualization Systems
+### Core Interests
 
----
-
-## 🚀 Currently
-
-### 🔭 Working On
-
-**[CrisisMesh 2.0](https://github.com/Shamiul-Bashar/CrisisMesh-2.0-Dynamic-Emergency-Decision-Routing-Resource-Allocation-Simulator)**
-
-A dynamic emergency decision, routing, and resource-allocation simulator built around data structures, graph algorithms, and simulation logic.
-
-### 🌱 Currently Learning
-
-`Advanced Graph Algorithms` · `Assembly Language` · `Computer Architecture` · `Verilog & FPGA Design` · `System Design`
-
-### 🤝 Open to Collaborating On
-
-DSA-based systems · Algorithm optimization · Simulation systems · Software projects · Hardware/FPGA projects
-
-### 💬 Ask Me About
-
-C/C++ · DSA · Graph Algorithms · OOP · Digital Logic · Verilog · FPGA · Computer Architecture
+- Data Structures & Algorithms
+- Graph Algorithms & Shortest Paths
+- C/C++ & Object-Oriented Programming
+- Systems Design & Simulation
+- Computer Architecture
+- Digital Logic & FPGA
+- Verilog HDL
+- Modern Web Development
 
 ---
 
-# 💻 Tech Stack
+## 🚀 What I'm Doing Now
 
-### Languages
+| | |
+|---|---|
+| 🔭 **Building** | [CrisisMesh 2.0](https://github.com/Shamiul-Bashar/CrisisMesh-2.0-Dynamic-Emergency-Decision-Routing-Resource-Allocation-Simulator) |
+| 🌱 **Learning** | Advanced Graph Algorithms · Assembly · Computer Architecture · Verilog · FPGA |
+| 🤝 **Collaborating** | DSA systems · Algorithmic projects · Simulation · Software & FPGA |
+| 💬 **Ask me about** | C/C++ · DSA · Graphs · OOP · Digital Logic · Verilog · FPGA |
+
+---
+
+# 🧰 Technical Skills
+
+### Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" alt="Programming Languages" />
 </p>
 
-### Web Development
+### Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs" alt="Web Development" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs" alt="Web Technologies" />
 </p>
 
 ### Systems & Hardware
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git" alt="Systems and Tools" />
+<img src="https://skillicons.dev/icons?i=linux,git,vscode" alt="Systems Tools" />
 </p>
 
-`Verilog` · `FPGA` · `Xilinx Vivado` · `Basys 3`
+**HDL / Hardware:** `Verilog` · `FPGA` · `Xilinx Vivado` · `Basys 3`
 
-### Design & Development Tools
+### Design & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,docker" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=figma,docker" alt="Development Tools" />
 </p>
 
 ---
@@ -94,22 +85,34 @@ C/C++ · DSA · Graph Algorithms · OOP · Digital Logic · Verilog · FPGA · C
 <div align="center">
 
 <a href="https://github.com/Shamiul-Bashar">
-<img src="https://img.shields.io/github/followers/Shamiul-Bashar?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
-</a>
-&nbsp;
-<a href="https://github.com/Shamiul-Bashar?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Repositories" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Shamiul-Bashar">
 <img src="https://streak-stats.demolab.com/?user=Shamiul-Bashar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </a>
 
 </div>
 
-> **Note:** The analytics section intentionally avoids the unreliable public `github-readme-stats.vercel.app` cards that were causing broken images.
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Shamiul-Bashar?tab=repositories">
+<img src="https://img.shields.io/github/followers/Shamiul-Bashar?label=Followers&style=flat-square&logo=github" alt="Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/Shamiul-Bashar?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-24292f?style=flat-square&logo=github" alt="Repositories" />
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shamiul-Bashar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
@@ -117,11 +120,7 @@ C/C++ · DSA · Graph Algorithms · OOP · Digital Logic · Verilog · FPGA · C
 
 <div align="center">
 
-<img
-  src="https://ghchart.rshah.org/Shamiul-Bashar"
-  width="100%"
-  alt="GitHub Contribution Calendar"
-/>
+<img src="https://ghchart.rshah.org/Shamiul-Bashar" width="100%" alt="GitHub Contribution Calendar" />
 
 </div>
 
@@ -129,88 +128,66 @@ C/C++ · DSA · Graph Algorithms · OOP · Digital Logic · Verilog · FPGA · C
 
 # 🚀 Featured Projects
 
-## 🚨 [CrisisMesh 2.0](https://github.com/Shamiul-Bashar/CrisisMesh-2.0-Dynamic-Emergency-Decision-Routing-Resource-Allocation-Simulator)
+### 🚨 [CrisisMesh 2.0](https://github.com/Shamiul-Bashar/CrisisMesh-2.0-Dynamic-Emergency-Decision-Routing-Resource-Allocation-Simulator)
 
-### Dynamic Emergency Decision, Routing & Resource-Allocation Simulator
+**Dynamic Emergency Decision, Routing & Resource-Allocation Simulator**
 
-A DSA-focused emergency response and resource-allocation simulator designed for dynamic disaster scenarios.
+A DSA-driven emergency response simulator for dynamic disaster scenarios.
 
-### Core Technologies
+**Core Concepts**
 
-`C++17` · `Data Structures & Algorithms` · `Graph Algorithms` · `BFS` · `DFS` · `Dijkstra` · `Binary Min Heap` · `AVL Tree` · `Hash Table` · `Linked List` · `Queue` · `Stack`
+`C++17` · `Graphs` · `Dijkstra` · `BFS/DFS` · `Priority Queue` · `Binary Min Heap` · `AVL Tree` · `Hash Table` · `Linked List` · `Queue` · `Stack`
 
-### Project Highlights
+**Highlights**
 
 - Dynamic emergency prioritization
 - Responder assignment
 - Emergency route calculation
-- Dynamic road blocking and unblocking
+- Dynamic road blocking / unblocking
 - Resource allocation
 - Shelter and supply management
-- Simulation engine
-- Algorithm execution tracing
+- Simulation and algorithm tracing
 - Interactive graph visualization
-- Real-time frontend/backend synchronization
 
 ---
 
-## 🌊 [SMART HYDRO GRID](https://github.com/Shamiul-Bashar/hydro-smart)
+### 🌊 [SMART HYDRO GRID](https://github.com/Shamiul-Bashar/hydro-smart)
 
-### Smart Water Grid Management System
+**Smart Water Grid Management System**
 
-A project focused on intelligent water-grid management and practical system-oriented problem solving.
+A practical system-oriented project focused on intelligent water-grid management and problem solving.
 
 **Focus:** `C/C++` · `System Design` · `Problem Solving`
 
 ---
 
-## 🔌 FPGA & Verilog Projects
+### 🔌 FPGA & Verilog Projects
 
-Hardware-oriented projects exploring digital logic, FPGA development, and hardware implementation.
+Hardware-oriented work exploring digital logic and FPGA implementation.
 
-### Areas
-
-- Verilog HDL
-- FPGA Development
-- Digital Logic Design
-- LFSR-based systems
-- 7-Segment Displays
-- Button Debouncing
-- Hardware Control Logic
-- Circuit Simulation
+**Areas:** `Verilog HDL` · `FPGA` · `LFSR` · `7-Segment Display` · `Debouncing` · `Digital Logic`
 
 ---
 
-## 🌐 neon-siam
+### 🌐 neon-siam
 
-An interactive developer portfolio focused on modern UI, motion design, and visual experience.
+An interactive developer portfolio focused on modern UI, motion, and visual experience.
 
-### Technologies
-
-`Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `GSAP` · `Framer Motion` · `Lenis`
+**Stack:** `Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `GSAP` · `Framer Motion` · `Lenis`
 
 ---
 
 # 🧠 Problem Solving
 
-I enjoy solving problems involving **data structures, algorithms, graphs, trees, optimization, and system-level logic**.
+I enjoy problems that require **structured thinking, algorithm design, optimization, and system-level reasoning**.
 
-### Focus Areas
+### Focus
 
-- Graph Algorithms
-- Tree Structures
-- Shortest Path Algorithms
-- Dynamic Programming
-- Advanced Data Structures
-- Algorithm Optimization
-- Object-Oriented Programming
-- System Design
-- Algorithmic Problem Solving
+`Graph Algorithms` · `Trees` · `Shortest Paths` · `Dynamic Programming` · `Advanced Data Structures` · `OOP` · `System Design`
 
 ### Coding Profiles
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F1F1F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shamiul_bashar)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/siam_basher)
 
 ---
@@ -220,18 +197,18 @@ I enjoy solving problems involving **data structures, algorithms, graphs, trees,
 <div align="center">
 
 ```text
-Advanced Data Structures
-          ↓
+Data Structures & Algorithms
+            ↓
 Graph Algorithms & Shortest Paths
-          ↓
+            ↓
 Computer Architecture
-          ↓
+            ↓
 Assembly Language
-          ↓
-Verilog & FPGA Design
-          ↓
+            ↓
+Verilog & FPGA
+            ↓
 Systems Programming
-          ↓
+            ↓
 Modern Web Development
 ```
 
@@ -239,40 +216,14 @@ Modern Web Development
 
 ---
 
-# 🛠️ What I Like Building
+# 🌐 Connect
 
 <div align="center">
 
-| 🧠 Algorithms | ⚙️ Systems | 🔌 Hardware | 🌐 Web |
-|:---:|:---:|:---:|:---:|
-| DSA | System Design | Verilog | React |
-| Graphs | Optimization | FPGA | Next.js |
-| Trees | Simulation | Digital Logic | TypeScript |
-| Routing | Architecture | Vivado | Interactive UI |
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Shamiul-Bashar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://linkedin.com/in/shamiul-bashar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://shamiul-dev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="mailto:siambasher@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shamiul-Bashar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamiul-bashar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shamiul-dev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siambasher@gmail.com)
 
 </div>
 
@@ -280,12 +231,8 @@ Modern Web Development
 
 <div align="center">
 
-### 👋 Thanks for Visiting!
+### 👋 Thanks for visiting my profile
 
-Building → Learning → Breaking → Understanding → Improving
-
-<br>
-
-**Let's build something meaningful.**
+**Build • Learn • Solve • Improve**
 
 </div>
