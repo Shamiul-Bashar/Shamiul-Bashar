@@ -92,11 +92,13 @@ I particularly enjoy projects where algorithms are not just implemented, but bec
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
+GitHub displays achievements natively on my profile, so this section does not depend on an external image service.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shamiul-Bashar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+[View my GitHub achievements →](https://github.com/Shamiul-Bashar?tab=achievements)
 
 </div>
 
