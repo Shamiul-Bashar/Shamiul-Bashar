@@ -92,13 +92,11 @@ I particularly enjoy projects where algorithms are not just implemented, but bec
 
 ---
 
-## 🏆 GitHub Achievements
-
-GitHub displays achievements natively on my profile, so this section does not depend on an external image service.
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[View my GitHub achievements →](https://github.com/Shamiul-Bashar?tab=achievements)
+<img src="./assets/github-trophies.svg" width="100%" alt="GitHub Trophies" />
 
 </div>
 
