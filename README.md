@@ -94,25 +94,22 @@ C/C++ · DSA · Graph Algorithms · OOP · Digital Logic · Verilog · FPGA · C
 <div align="center">
 
 <a href="https://github.com/Shamiul-Bashar">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shamiul-Bashar&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img src="https://img.shields.io/github/followers/Shamiul-Bashar?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
 </a>
+&nbsp;
+<a href="https://github.com/Shamiul-Bashar?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Repositories" />
+</a>
+
+<br><br>
 
 <a href="https://github.com/Shamiul-Bashar">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamiul-Bashar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=Shamiul-Bashar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </a>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=Shamiul-Bashar&theme=tokyonight&hide_border=true"
-  alt="GitHub Contribution Streak"
-/>
-
-</div>
+> **Note:** The analytics section intentionally avoids the unreliable public `github-readme-stats.vercel.app` cards that were causing broken images.
 
 ---
 
@@ -121,9 +118,9 @@ C/C++ · DSA · Graph Algorithms · OOP · Digital Logic · Verilog · FPGA · C
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Shamiul-Bashar&theme=tokyo-night&hide_border=true&area=true"
+  src="https://ghchart.rshah.org/Shamiul-Bashar"
   width="100%"
-  alt="GitHub Contribution Activity Graph"
+  alt="GitHub Contribution Calendar"
 />
 
 </div>
@@ -132,25 +129,9 @@ C/C++ · DSA · Graph Algorithms · OOP · Digital Logic · Verilog · FPGA · C
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Shamiul-Bashar/CrisisMesh-2.0-Dynamic-Emergency-Decision-Routing-Resource-Allocation-Simulator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shamiul-Bashar&repo=CrisisMesh-2.0-Dynamic-Emergency-Decision-Routing-Resource-Allocation-Simulator&theme=tokyonight&hide_border=true" alt="CrisisMesh 2.0" />
-</a>
-
-<a href="https://github.com/Shamiul-Bashar/hydro-smart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shamiul-Bashar&repo=hydro-smart&theme=tokyonight&hide_border=true" alt="SMART HYDRO GRID" />
-</a>
-
-</div>
-
----
-
-## 🚨 CrisisMesh 2.0
+## 🚨 [CrisisMesh 2.0](https://github.com/Shamiul-Bashar/CrisisMesh-2.0-Dynamic-Emergency-Decision-Routing-Resource-Allocation-Simulator)
 
 ### Dynamic Emergency Decision, Routing & Resource-Allocation Simulator
-
-[**View Repository →**](https://github.com/Shamiul-Bashar/CrisisMesh-2.0-Dynamic-Emergency-Decision-Routing-Resource-Allocation-Simulator)
 
 A DSA-focused emergency response and resource-allocation simulator designed for dynamic disaster scenarios.
 
@@ -173,13 +154,11 @@ A DSA-focused emergency response and resource-allocation simulator designed for 
 
 ---
 
-## 🌊 SMART HYDRO GRID
+## 🌊 [SMART HYDRO GRID](https://github.com/Shamiul-Bashar/hydro-smart)
 
 ### Smart Water Grid Management System
 
 A project focused on intelligent water-grid management and practical system-oriented problem solving.
-
-[**View Repository →**](https://github.com/Shamiul-Bashar/hydro-smart)
 
 **Focus:** `C/C++` · `System Design` · `Problem Solving`
 
@@ -254,3 +233,59 @@ Verilog & FPGA Design
 Systems Programming
           ↓
 Modern Web Development
+```
+
+</div>
+
+---
+
+# 🛠️ What I Like Building
+
+<div align="center">
+
+| 🧠 Algorithms | ⚙️ Systems | 🔌 Hardware | 🌐 Web |
+|:---:|:---:|:---:|:---:|
+| DSA | System Design | Verilog | React |
+| Graphs | Optimization | FPGA | Next.js |
+| Trees | Simulation | Digital Logic | TypeScript |
+| Routing | Architecture | Vivado | Interactive UI |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Shamiul-Bashar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://linkedin.com/in/shamiul-bashar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://shamiul-dev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="mailto:siambasher@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👋 Thanks for Visiting!
+
+Building → Learning → Breaking → Understanding → Improving
+
+<br>
+
+**Let's build something meaningful.**
+
+</div>
