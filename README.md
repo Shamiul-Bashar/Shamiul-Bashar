@@ -96,7 +96,12 @@ I particularly enjoy projects where algorithms are not just implemented, but bec
 
 <div align="center">
 
-<img src="./assets/github-trophies.svg" width="100%" alt="GitHub Trophies" />
+<a href="https://github.com/Shamiul-Bashar">
+  <img
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=Shamiul-Bashar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
+    alt="GitHub Trophies"
+  />
+</a>
 
 </div>
 
